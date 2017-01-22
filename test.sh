@@ -1,5 +1,5 @@
 #!/bin/bash
 echo Hello
 echo Today is 
-date
-echo branch master
+datE
+echo branch masteR
